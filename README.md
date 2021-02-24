@@ -50,4 +50,4 @@ A JavaFX inventory management application.
 ![](UI/newproduct_ui.png)
 
 ### Add user view
-![](interfaces/newuser_ui.png)
+![](UI/newuser_ui.png)
